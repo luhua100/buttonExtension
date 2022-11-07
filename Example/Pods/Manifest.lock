@@ -1,0 +1,16 @@
+PODS:
+  - ButtonExtension (0.1.0)
+
+DEPENDENCIES:
+  - ButtonExtension (from `../`)
+
+EXTERNAL SOURCES:
+  ButtonExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ButtonExtension: 2dd3a843cdf886ed47dedada78865d8ceab52bf2
+
+PODFILE CHECKSUM: a76a9c9c420092ad8c07e01fd7cd5ce756c42f2a
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,6 @@
+framework module ButtonExtension {
+  umbrella header "ButtonExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}
