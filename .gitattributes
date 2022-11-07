@@ -1,2 +1,2 @@
-*.* linguist-language=Objective-C
-*.* linguist-language=Swift
+*.* linguist-language=[Objective-C,Swift]
+
